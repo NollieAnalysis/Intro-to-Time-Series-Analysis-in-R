@@ -1,4 +1,4 @@
-# Intro-to-Time-Series-Analysis-in-R
+# Time-Series-Analysis-in-R
 
 # Coursera guided project learning and practicing time series analysis in R. Course taught by Vinod Bakthavachalam.
 

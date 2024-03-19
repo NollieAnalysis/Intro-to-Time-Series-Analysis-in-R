@@ -42,23 +42,7 @@
 
 # R libraries used:
 
-library(IRdisplay)
-
-library(magrittr)
-
-library(tidyverse)
-
-library(scales)
-
-library(gridExtra)
-
-library(forecast)
-
-library(tseries)
-
-library(ggthemes)
-
-theme_set(theme_economist())
+library(IRdisplay), library(magrittr), library(tidyverse), library(scales), library(gridExtra), library(forecast), library(tseries), library(ggthemes), theme_set(theme_economist())
 
 # R functions used:
 

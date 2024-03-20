@@ -40,7 +40,7 @@
 
 16. "Where to go Next"
 
-# R libraries used:
+# R packages used:
 
 library(IRdisplay), library(magrittr), library(tidyverse), library(scales), library(gridExtra), library(forecast), library(tseries), library(ggthemes), theme_set(theme_economist())
 

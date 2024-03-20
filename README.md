@@ -48,7 +48,7 @@ library(IRdisplay), library(magrittr), library(tidyverse), library(scales), libr
 
 setwd, source, print, display_png, sim.random.walk, ggplot, ggAcf, sim.stationary.example, head, dim, grid.arrange, adf.test, lag, resid, lm, read.csv, class, as.Date, auto.arima, Box.test, forecast, autoplot, ts, stl, 
 
-# Project deliverable examples
+# Project deliverable examples:
 
 # 4. "Key Concepts: Autocorrelation / Autocovariance (Theory)"
 
